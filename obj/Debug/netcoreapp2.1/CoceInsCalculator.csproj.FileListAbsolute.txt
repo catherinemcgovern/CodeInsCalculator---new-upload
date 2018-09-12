@@ -1,0 +1,11 @@
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\bin\Debug\netcoreapp2.1\CoceInsCalculator.deps.json
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\bin\Debug\netcoreapp2.1\CoceInsCalculator.runtimeconfig.json
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\bin\Debug\netcoreapp2.1\CoceInsCalculator.runtimeconfig.dev.json
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\bin\Debug\netcoreapp2.1\CoceInsCalculator.dll
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\bin\Debug\netcoreapp2.1\CoceInsCalculator.pdb
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\obj\Debug\netcoreapp2.1\CoceInsCalculator.csprojAssemblyReference.cache
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\obj\Debug\netcoreapp2.1\CoceInsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\obj\Debug\netcoreapp2.1\CoceInsCalculator.AssemblyInfoInputs.cache
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\obj\Debug\netcoreapp2.1\CoceInsCalculator.AssemblyInfo.cs
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\obj\Debug\netcoreapp2.1\CoceInsCalculator.dll
+C:\Users\Catherine\Desktop\5360 - Ob des abd Anal\Babb Class\CatherineMcGovern-HomeWork2\CoceInsCalculator\obj\Debug\netcoreapp2.1\CoceInsCalculator.pdb
